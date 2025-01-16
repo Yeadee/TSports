@@ -19,7 +19,7 @@ def update():
     ns_data = []
     ottdata = ""
     for channel in contents:
-        data = info = {}
+        data, info = {}, {}
         data['category'] = channel['categoryName']
         data['name'] = info['name'] = channel.get('contentName', '')
         data['id'] = channel.get('id')
