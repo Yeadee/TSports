@@ -1,6 +1,6 @@
 {
   "channels_found": 2,
-  "last_update": "16-01-2025 01:30:41 AM",
+  "last_update": "16-01-2025 12:13:15 PM",
   "channels": [
     {
       "category": "LIVE",
@@ -8,8 +8,8 @@
       "id": 261,
       "logo": "https://image.tsports.com/images/mobile_thumbnail/1735207293-BPL-Live-Thum.jpg",
       "link": "https://live-cdn.tsports.com/live-02/index.m3u8",
-      "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1737039811:KeyName=tsports-ed25519-01:Signature=666D1B4tVxOS6NSrHTMbKeLzuTUbdf7zFhkYMghWwq6EN33jo2tJ_28HrjFarve9uWhOyuGwVkgxZ95jw6zSAw",
-      "cookie_expire": "2025-01-16 21:03:31"
+      "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1737079483:KeyName=tsports-ed25519-01:Signature=yLdcTf8hWWSM_LQxufzkUq6mRyx-Ik0-_olx560oQFEWv_zzzFpDKLiJV636rGgPYA4cVW5Yc4Y4JePRb7S1Dw",
+      "cookie_expire": "2025-01-17 08:04:43"
     },
     {
       "category": "LIVE",
@@ -17,8 +17,8 @@
       "id": 15,
       "logo": "https://image.tsports.com/images/mobile_thumbnail/1719127158-LIVE.jpg",
       "link": "https://live-cdn.tsports.com/live-01/index.m3u8",
-      "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1737039811:KeyName=tsports-ed25519-01:Signature=666D1B4tVxOS6NSrHTMbKeLzuTUbdf7zFhkYMghWwq6EN33jo2tJ_28HrjFarve9uWhOyuGwVkgxZ95jw6zSAw",
-      "cookie_expire": "2025-01-16 21:03:31"
+      "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1737079483:KeyName=tsports-ed25519-01:Signature=yLdcTf8hWWSM_LQxufzkUq6mRyx-Ik0-_olx560oQFEWv_zzzFpDKLiJV636rGgPYA4cVW5Yc4Y4JePRb7S1Dw",
+      "cookie_expire": "2025-01-17 08:04:43"
     }
   ]
 }
