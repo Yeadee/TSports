@@ -11,8 +11,8 @@ def data_decrypt(key, ciphertext):
     return plaintext.decode()
 
 def update():
-    api_url = os.environ("API_URL")
-    secret_key = os.environ("SECRET_KEY")
+    api_url = os.environ["API_URL"]
+    secret_key = os.environ["SECRET_KEY"]
     req = requests.get(url=api_url, headers=headers)
     contents=json.loads(data_decrypt(secret_key.encode(),req.text))["data"]["contents"]
     all_data=[]
