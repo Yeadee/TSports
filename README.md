@@ -65,7 +65,7 @@ master_144.m3u8
 - Install [NS Player](https://play.google.com/store/apps/details?id=com.genuine.leone)
 - Add new Playlist with [this](https://raw.githubusercontent.com/Yeadee/TSports/refs/heads/main/tsports_ns_player.m3u) link as URL.
 ### OTT Navigator
-- Install [NS Player](https://apkpure.com/ott-navigator-iptv/studio.scillarium.ottnavigator/amp)
+- Install [OTT Navigator](https://apkpure.com/ott-navigator-iptv/studio.scillarium.ottnavigator/amp)
 - Add new Playlist with [this](https://raw.githubusercontent.com/Yeadee/TSports/refs/heads/main/tsports_ott_navigator.m3u) link as URL.
 
 ## NOTES
