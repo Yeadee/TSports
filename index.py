@@ -24,11 +24,10 @@ def update():
         data['name'] = info['name'] = channel.get('contentName', '')
         data['id'] = channel.get('id')
         data['logo'] = info['logo'] = channel.get('mobileThumbnail','')
-        metadata = channel.get('playingMetaData')
-        data['link'] = info['link'] = metadata[0]['mediaUrl']
-        data['cookie'] = info['cookie'] = metadata[0]['signedCookie']
-        data['cookie_expire'] = metadata[0]['expiresIn']
-        ott = "#EXTINF:-1 group-title=\""+data['category'] + "\" tvg-chno="" tvg-id=\"" + str(data['id']) + "\" tvg-logo=\"" + data['logo'] + "\", " + data['name'] + "\n" + '#EXTHTTP:{"cookie":"' + data['cookie'] + "\"}\n" + data['link'] + "\n"
+        data['link'] = info['link'] = channel.get('contentAes128HlsUrl')
+        #data['cookie'] = info['cookie'] = metadata[0]['signedCookie']
+        #data['cookie_expire'] = metadata[0]['expiresIn']
+        ott = "#EXTINF:-1 group-title=\""+data['category'] + "\" tvg-chno="" tvg-id=\"" + str(data['id']) + "\" tvg-logo=\"" + data['logo'] + "\", " + data['name'] + "\n" + data['link'] + "\n"
         ottdata = ottdata + ott
         all_data.append(data)
         ns_data.append(info)
