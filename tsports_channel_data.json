@@ -1,24 +1,20 @@
 {
   "channels_found": 2,
-  "last_update": "05-02-2025 12:13:26 PM",
+  "last_update": "06-02-2025 12:12:57 AM",
   "channels": [
     {
       "category": "LIVE",
       "name": "LIVE | BPL 2025",
       "id": 261,
       "logo": "https://image.tsports.com/images/mobile_thumbnail/1735207293-BPL-Live-Thum.jpg",
-      "link": "https://live-cdn.tsports.com/live-02/index.m3u8",
-      "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1738804837:KeyName=tsports-ed25519-01:Signature=cpY4Y1zi2WN9MgdskeIS5epZ6AnkD8U9M7nUHRZEAR1Y5vqNCnV931RXw6IamGFTmZfrLDL7vpMmcvBcguHdAw",
-      "cookie_expire": "2025-02-06 07:20:37"
+      "link": "https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8"
     },
     {
       "category": "LIVE",
       "name": "T Sports Live 01",
       "id": 15,
       "logo": "https://image.tsports.com/images/mobile_thumbnail/1719127158-LIVE.jpg",
-      "link": "https://live-cdn.tsports.com/live-01/index.m3u8",
-      "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1738804837:KeyName=tsports-ed25519-01:Signature=cpY4Y1zi2WN9MgdskeIS5epZ6AnkD8U9M7nUHRZEAR1Y5vqNCnV931RXw6IamGFTmZfrLDL7vpMmcvBcguHdAw",
-      "cookie_expire": "2025-02-06 07:20:37"
+      "link": "https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8"
     }
   ]
 }
