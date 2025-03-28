@@ -1,6 +1,6 @@
 {
   "channels_found": 2,
-  "last_update": "28-03-2025 08:19:01 PM",
+  "last_update": "28-03-2025 09:21:17 PM",
   "channels": [
     {
       "category": "LIVE",
@@ -13,7 +13,7 @@
       "category": "LIVE",
       "name": "T Sports Live 01",
       "id": 15,
-      "logo": "https://image.tsports.com/images/mobile_thumbnail/1742918348-LIVE.jpg",
+      "logo": "https://image.tsports.com/images/mobile_thumbnail/1743171204-1742918354-LIVE.jpg",
       "link": "https://live-test.tsports.com/live-01/index.m3u8"
     }
   ]
