@@ -1,4 +1,4 @@
-import requests, json, base64, datetime, os
+import requests, re, json, base64, datetime, os
 from pytz import timezone
 from Crypto.Cipher import AES
 from Crypto.Util.Padding import pad, unpad
