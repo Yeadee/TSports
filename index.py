@@ -30,10 +30,10 @@ def update():
         match = re.search(pattern, response1)
         if match:
             data['link'] = info['link'] = match.group(1)
-        info["userAgent"] = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+        #info["userAgent"] = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
         #data['cookie'] = info['cookie'] = metadata[0]['signedCookie']
         #data['cookie_expire'] = metadata[0]['expiresIn']
-        ott = "#EXTINF:-1 group-title=\""+data['category'] + "\" tvg-chno="" tvg-id=\"" + str(data['id']) + "\" tvg-logo=\"" + data['logo'] + "\", " + data['name'] + "\n" + "#EXTVLCOPT:http-user-agent=" + info["userAgent"] + "\n" + data['link'] + "\n"
+        ott = "#EXTINF:-1 group-title=\""+data['category'] + "\" tvg-chno="" tvg-id=\"" + str(data['id']) + "\" tvg-logo=\"" + data['logo'] + "\", " + data['name'] + "\n" + data['link'] + "\n"
         ottdata = ottdata + ott
         all_data.append(data)
         ns_data.append(info)
