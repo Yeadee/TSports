@@ -18,6 +18,7 @@ def update():
     all_data=[]
     ns_data = []
     ottdata = ""
+    universal = "#EXTM3U \n\n"
     for channel in contents:
         data, info = {}, {}
         data['category'] = channel['categoryName']
@@ -33,8 +34,9 @@ def update():
         #info["userAgent"] = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
         #data['cookie'] = info['cookie'] = metadata[0]['signedCookie']
         #data['cookie_expire'] = metadata[0]['expiresIn']
-        ott = "#EXTINF:-1 group-title=\""+data['category'] + "\" tvg-chno="" tvg-id=\"" + str(data['id']) + "\" tvg-logo=\"" + data['logo'] + "\", " + data['name'] + "\n" + data['link'] + "\n"
+        ott = "#EXTINF:-1 group-title=\""+data['category'] + "\" tvg-id=\"" + str(data['id']) + "\" tvg-logo=\"" + data['logo'] + "\", " + data['name'] + "\n" + data['link'] + "\n"
         ottdata = ottdata + ott
+        universal = universal + ott
         all_data.append(data)
         ns_data.append(info)
     fulldata = {}
@@ -47,6 +49,8 @@ def update():
         json.dump(ns_data,w,indent=2)
     with open("tsports_ott_navigator.m3u","w") as w:
         w.write(ottdata)
+    with open("tsports_universal.m3u","w") as w:
+        w.write(universal)
     return None
 
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36'}
