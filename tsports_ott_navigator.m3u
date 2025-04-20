@@ -1,6 +1,6 @@
 #EXTINF:-1 group-title="LIVE" tvg-chno= tvg-id="261" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg", LIVE | IPL 2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
+https://live-test.tsports.com/live-02/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=174514032460~hmac=7a37a02b11079ef2a8762944b8ed8602295d7d351cd7a4972d5b44fff8855076
 #EXTINF:-1 group-title="LIVE" tvg-chno= tvg-id="15" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1744288356-LIVE-1280.jpg", LIVE | PSL 2025
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
+https://live-test.tsports.com/live-01/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=174514032560~hmac=74c308df644923e5078bb1b0f3820d50a346dd7b522a87aeaa19853b186942b5
