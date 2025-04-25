@@ -2,11 +2,11 @@
   {
     "name": "LIVE | IPL 2025",
     "logo": "https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg",
-    "link": "https://live-test.tsports.com/live-02/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=174560083660~hmac=a227bc72e866ff41c8b43fcaee90abc238acd39d0b55783d81acb0a96999ecd0"
+    "link": "https://live-test.tsports.com/live-02/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=174560465960~hmac=48d9bd1b9a1795139b3a14cecbf44787f4fe32a7a7a17f7f7341b3d4a8fc681c"
   },
   {
     "name": "LIVE | PSL 2025",
     "logo": "https://image.tsports.com/images/mobile_thumbnail/1744288356-LIVE-1280.jpg",
-    "link": "https://live-test.tsports.com/live-01/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=174560083760~hmac=4baf463c272a02c1db6fc177f7b1c5dc87aceaab74ac84417f11c737174a7577"
+    "link": "https://live-test.tsports.com/live-01/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=174560466060~hmac=2e17a0a0d4b10b733fc05542bd7e7480506e3428a56130e6ef6d8a70d58a700e"
   }
 ]
