@@ -1,20 +1,20 @@
 {
   "channels_found": 2,
-  "last_update": "26-04-2025 10:07:50 PM",
+  "last_update": "26-04-2025 11:02:11 PM",
   "channels": [
     {
       "category": "LIVE",
       "name": "LIVE | IPL 2025",
       "id": 261,
       "logo": "https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg",
-      "link": "https://live-test.tsports.com/live-02/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=174568367160~hmac=72169439b987cc37f45a709859e2a5298a25c46f550178544f4204c835e886eb"
+      "link": "https://live-test.tsports.com/live-02/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=174568693260~hmac=7971242d6c20938dae0c8e511d503e20b6e32fd8a53a206eca328ef73483f196"
     },
     {
       "category": "LIVE",
       "name": "LIVE | PSL 2025",
       "id": 15,
       "logo": "https://image.tsports.com/images/mobile_thumbnail/1744288356-LIVE-1280.jpg",
-      "link": "https://live-test.tsports.com/live-01/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=174568367260~hmac=2075402214f48ebf542011f96fdae861c3e371a2f329aa3a73d43d6cc21e9b65"
+      "link": "https://live-test.tsports.com/live-01/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=174568693260~hmac=7971242d6c20938dae0c8e511d503e20b6e32fd8a53a206eca328ef73483f196"
     }
   ]
 }
