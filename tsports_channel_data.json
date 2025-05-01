@@ -1,20 +1,20 @@
 {
   "channels_found": 2,
-  "last_update": "01-05-2025 06:14:24 PM",
+  "last_update": "01-05-2025 07:18:48 PM",
   "channels": [
     {
       "category": "LIVE",
       "name": "LIVE | IPL 2025",
       "id": 261,
       "logo": "https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg",
-      "link": "https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8"
+      "link": "https://live-test.tsports.com/live-02/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1746105530300~hmac=c2d945bdcbf0d3f6b3ed77d618d2f94287f49e71a6999e384c0672942c05f8b5"
     },
     {
       "category": "LIVE",
       "name": "LIVE | PSL 2025",
       "id": 15,
       "logo": "https://image.tsports.com/images/mobile_thumbnail/1744288356-LIVE-1280.jpg",
-      "link": "https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8"
+      "link": "https://live-test.tsports.com/live-01/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1746105531300~hmac=0ce5142045d5638fcc82e5ebaa776e19fe7b9c9a4f315815b49f0a9e176789c5"
     }
   ]
 }
