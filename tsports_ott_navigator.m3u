@@ -1,4 +1,4 @@
 #EXTINF:-1 group-title="LIVE" tvg-id="261" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg", LIVE | IPL 2025
-https://live-test.tsports.com/live-02/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1746486465300~hmac=5c3a2c730cfa83f812a8e920e2e5acd6c97e1aa25f238b0031702cf2e98f5c3a
+https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-id="15" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1744288356-LIVE-1280.jpg", LIVE | PSL 2025
-https://live-test.tsports.com/live-01/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1746486466300~hmac=67432b30be9dfac163c63d0b882b937e4520bea80947e6c60150a83bd6f21250
+https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
