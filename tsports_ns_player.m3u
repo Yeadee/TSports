@@ -2,11 +2,11 @@
   {
     "name": "LIVE | IPL 2025",
     "logo": "https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg",
-    "link": "https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8"
+    "link": "https://live-test.tsports.com/live-02/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1746537801300~hmac=e90ec07f0e4efabe3318586f91e5483580a1460826c1951324129e43983fea21"
   },
   {
     "name": "LIVE | PSL 2025",
     "logo": "https://image.tsports.com/images/mobile_thumbnail/1744288356-LIVE-1280.jpg",
-    "link": "https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8"
+    "link": "https://live-test.tsports.com/live-01/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1746537802300~hmac=bb8ddddbee0fb8155927b84a920f9d34cfdffd291d420748ee90137185e6f04a"
   }
 ]
