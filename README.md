@@ -13,7 +13,7 @@ A simple script to automatically update TSports channels list with cookies every
 [![Yeadee - TSports](https://img.shields.io/static/v1?label=Yeadee&message=TSports&color=blue&logo=github)](https://github.com/Yeadee/TSports "Go to GitHub repo")
 [![stars - TSports](https://img.shields.io/badge/made_with-python_3.10-blue)](https://www.python.org/)
 [![issues - TSports](https://img.shields.io/github/issues/Yeadee/TSports)](https://github.com/Yeadee/TSports/issues)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeadee%2FTSports&count_bg=%23DB4E92&title_bg=%23555555&icon=symantec.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://github.com/Yeadee/TSports)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FYeadee%2FTSports&label=Visitors&icon=link&color=%23198754)
 <br/> ![GitHub Repo stars](https://img.shields.io/github/stars/Yeadee/TSports?link=https%3A%2F%2Fgithub.com%2FYeadee%2FTSports)
 
 ## Key Features
