@@ -25,12 +25,14 @@ def update():
         data['name'] = info['name'] = channel.get('contentName', '')
         data['id'] = channel.get('id')
         data['logo'] = info['logo'] = channel.get('mobileThumbnail','')
+        data['link'] = info['link'] = ''
         url = channel.get('shareUrl','')
-        response1 = requests.get(url, headers=headers).text
-        pattern = r'playableUrl\\":\\"(.*?)\\"'
-        match = re.search(pattern, response1)
-        if match:
-            data['link'] = info['link'] = match.group(1)
+        if url:
+            response1 = requests.get(url, headers=headers).text
+            pattern = r'playableUrl\\":\\"(.*?)\\"'
+            match = re.search(pattern, response1)
+            if match:
+                data['link'] = info['link'] = match.group(1)
         #info["userAgent"] = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
         #data['cookie'] = info['cookie'] = metadata[0]['signedCookie']
         #data['cookie_expire'] = metadata[0]['expiresIn']
