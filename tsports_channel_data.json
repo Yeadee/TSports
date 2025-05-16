@@ -1,7 +1,14 @@
 {
-  "channels_found": 2,
-  "last_update": "16-05-2025 05:07:20 PM",
+  "channels_found": 3,
+  "last_update": "16-05-2025 06:15:39 PM",
   "channels": [
+    {
+      "category": "LIVE",
+      "name": "LIVE | BAN vs UAE",
+      "id": 597,
+      "logo": "https://image.tsports.com/images/mobile_thumbnail/1747395159-HL-1280.jpg",
+      "link": "https://live-cdn.tsports.com/live-03/playlist.m3u8"
+    },
     {
       "category": "LIVE",
       "name": "LIVE | IPL 2025",
