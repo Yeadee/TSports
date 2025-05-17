@@ -1,27 +1,27 @@
 {
   "channels_found": 3,
-  "last_update": "18-05-2025 01:00:50 AM",
+  "last_update": "18-05-2025 02:08:08 AM",
   "channels": [
     {
       "category": "LIVE",
       "name": "LIVE | BAN vs UAE",
       "id": 597,
       "logo": "https://image.tsports.com/images/mobile_thumbnail/1747395159-HL-1280.jpg",
-      "link": "https://live-test.tsports.com/live-01/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1747508451300~hmac=d9b656ec06e13de4ea7f14bddafc7cef9aaa1e72a7a0ccf6c5f153f78e83f4f3"
+      "link": "https://live-test.tsports.com/live-01/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1747512489300~hmac=e5ce35a2e3e5196be491430ead80beb14fd9863a00ad40f81935be313679565b"
     },
     {
       "category": "LIVE",
       "name": "LIVE | IPL 2025",
       "id": 261,
       "logo": "https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg",
-      "link": "https://live-test.tsports.com/live-02/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1747508451300~hmac=d9b656ec06e13de4ea7f14bddafc7cef9aaa1e72a7a0ccf6c5f153f78e83f4f3"
+      "link": "https://live-test.tsports.com/live-02/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1747512489300~hmac=e5ce35a2e3e5196be491430ead80beb14fd9863a00ad40f81935be313679565b"
     },
     {
       "category": "LIVE",
       "name": "LIVE | PSL 2025",
       "id": 15,
       "logo": "https://image.tsports.com/images/mobile_thumbnail/1746628139-1744288359-LIVE-1280.jpg",
-      "link": "https://live-test.tsports.com/live-03/playlist.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1747508452300~hmac=09d74148b4399bd578d5f1827747ec4f1d304fb83ef30392e5627e2aaf9a6650"
+      "link": "https://live-test.tsports.com/live-03/playlist.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1747512490300~hmac=81c65b65bf388c9d6fc4b1ace851c75a2403f0b21f58ee13d60e3843dc7ca82a"
     }
   ]
 }
