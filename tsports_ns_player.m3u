@@ -2,16 +2,16 @@
   {
     "name": "LIVE | BAN vs UAE",
     "logo": "https://image.tsports.com/images/mobile_thumbnail/1747395159-HL-1280.jpg",
-    "link": "https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8"
+    "link": "https://live-test.tsports.com/live-01/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1747747477300~hmac=2a3f010b9d70a28cf83bbcea97fcfc999e7c747c51305d29e724036f7f9f8ee9"
   },
   {
     "name": "LIVE | IPL 2025",
     "logo": "https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg",
-    "link": "https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8"
+    "link": "https://live-test.tsports.com/live-02/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1747747477300~hmac=2a3f010b9d70a28cf83bbcea97fcfc999e7c747c51305d29e724036f7f9f8ee9"
   },
   {
     "name": "LIVE | PSL 2025",
     "logo": "https://image.tsports.com/images/mobile_thumbnail/1746628139-1744288359-LIVE-1280.jpg",
-    "link": "https://live.tsports.com/mobile_hls/tsports_live_3/playlist.m3u8"
+    "link": "https://live-test.tsports.com/live-03/playlist.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1747747478300~hmac=61366f318a1ec9627e5317ec7fb0c0182b864e1e5203f1ac4fe98b68db046ecb"
   }
 ]
