@@ -1,8 +1,8 @@
 #EXTM3U 
 
 #EXTINF:-1 group-title="LIVE" tvg-id="597" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1747854958-LIVE.jpg", LIVE | BAN vs PAK
-https://live-test.tsports.com/live-01/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1748167644300~hmac=f30d8de6046d82cde3b4cdca0d9a5e873b5beaf223eb01b729f9d574b5917900
+https://live-test.tsports.com/live-01/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1748170894300~hmac=9889ddf3d1ca262cd95f447efd36fce232b6b12ae3b19d242ce7052fce675e62
 #EXTINF:-1 group-title="LIVE" tvg-id="261" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg", LIVE | IPL 2025
-https://live-test.tsports.com/live-02/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1748167644300~hmac=f30d8de6046d82cde3b4cdca0d9a5e873b5beaf223eb01b729f9d574b5917900
+https://live-test.tsports.com/live-02/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1748170894300~hmac=9889ddf3d1ca262cd95f447efd36fce232b6b12ae3b19d242ce7052fce675e62
 #EXTINF:-1 group-title="LIVE" tvg-id="15" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1746628139-1744288359-LIVE-1280.jpg", LIVE | PSL 2025
-https://live-test.tsports.com/live-03/playlist.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1748167645300~hmac=50046b462b938915a4b076439f993b114dc9aa4ba9728ac7c17fb0b4de4e7190
+https://live-test.tsports.com/live-03/playlist.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1748170895300~hmac=2a3222cc8ccd3f3ee3049e4e082d4d3866fa32aacf0b98c2198ed50300f155c6
