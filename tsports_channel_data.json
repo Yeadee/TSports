@@ -1,6 +1,6 @@
 {
   "channels_found": 2,
-  "last_update": "26-05-2025 10:09:43 PM",
+  "last_update": "26-05-2025 11:00:46 PM",
   "channels": [
     {
       "category": "LIVE",
@@ -14,7 +14,7 @@
       "name": "LIVE | IPL 2025",
       "id": 261,
       "logo": "https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg",
-      "link": "https://live-test.tsports.com/live-02/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1748275783300~hmac=b6391fba435998d8dad7da3abe421d92f7a08ad23b7e55b0b05c01c0a88f883f"
+      "link": "https://live-test.tsports.com/live-02/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1748278848300~hmac=1ad6b2f73e9c53432fa8792ce3ab05caa9e42770d9e303fe66ea64927d63ecc8"
     }
   ]
 }
