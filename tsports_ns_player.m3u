@@ -2,11 +2,11 @@
   {
     "name": "LIVE | BAN vs PAK",
     "logo": "https://image.tsports.com/images/mobile_thumbnail/1748371027-Promo-1280.jpg",
-    "link": "https://live-test.tsports.com/live-01/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1748473682300~hmac=d2c26ef4c48364dea5159b2d8d6ba7e741899b3decfa23c1f66a207ecd141e23"
+    "link": "https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8"
   },
   {
     "name": "LIVE | IPL 2025",
     "logo": "https://image.tsports.com/images/mobile_thumbnail/1742534265-IMG_3293.jpeg",
-    "link": "https://live-test.tsports.com/live-02/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1748473683300~hmac=f01afc72166d25174be2cc35711bee4e433bbefe7ef3678019deeda54149597d"
+    "link": "https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8"
   }
 ]
