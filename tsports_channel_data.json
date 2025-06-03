@@ -1,20 +1,20 @@
 {
   "channels_found": 2,
-  "last_update": "04-06-2025 01:06:37 AM",
+  "last_update": "04-06-2025 02:09:27 AM",
   "channels": [
     {
       "category": "LIVE",
       "name": "LIVE | BAN vs BHU",
       "id": 597,
       "logo": "https://image.tsports.com/images/mobile_thumbnail/1748963980-BAN-v-Bhutan-ott1280.jpg",
-      "link": "https://live-test.tsports.com/live-01/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1748977598300~hmac=96c21b78582d0ac6e6e75818484f1524825b0b4a536bc78100d80ea7fd0341f7"
+      "link": "https://live-test.tsports.com/live-01/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1748981367300~hmac=25c70c7ac39ada14ec4e3bf2aca6d0cf6e30520e13ae1a00c7633ced8631176b"
     },
     {
       "category": "LIVE",
       "name": "T Sports Live 02",
       "id": 261,
       "logo": "https://image.tsports.com/images/mobile_thumbnail/1748976209-LIVE.jpg",
-      "link": "https://live-test.tsports.com/live-02/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1748977598300~hmac=96c21b78582d0ac6e6e75818484f1524825b0b4a536bc78100d80ea7fd0341f7"
+      "link": "https://live-test.tsports.com/live-02/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1748981368300~hmac=905f0822fce642c136b11b0cdb5d4c014360c3a76be9744e47264edb24d22bf8"
     }
   ]
 }
