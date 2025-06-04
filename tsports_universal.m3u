@@ -1,6 +1,6 @@
 #EXTM3U 
 
 #EXTINF:-1 group-title="LIVE" tvg-id="597" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1748963980-BAN-v-Bhutan-ott1280.jpg", LIVE | BAN vs BHU
-https://live-test.tsports.com/live-01/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1749010545300~hmac=2b257d932f8b54498d5116885b3b1ed08a24b4143b181025c10bd5393dacf6c9
+https://live-test.tsports.com/live-01/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1749013767300~hmac=476aee6c9d2f5cbb14e3cabb8ab606101282ab2d46ce9e29aa139b8281c93cc5
 #EXTINF:-1 group-title="LIVE" tvg-id="261" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1748976209-LIVE.jpg", T Sports Live 02
-https://live-test.tsports.com/live-02/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1749010545300~hmac=2b257d932f8b54498d5116885b3b1ed08a24b4143b181025c10bd5393dacf6c9
+https://live-test.tsports.com/live-02/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1749013767300~hmac=476aee6c9d2f5cbb14e3cabb8ab606101282ab2d46ce9e29aa139b8281c93cc5
