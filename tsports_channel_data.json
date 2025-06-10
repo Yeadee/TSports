@@ -1,13 +1,13 @@
 {
   "channels_found": 1,
-  "last_update": "10-06-2025 09:09:00 PM",
+  "last_update": "10-06-2025 10:10:22 PM",
   "channels": [
     {
       "category": "LIVE",
-      "name": "Live | Bangladesh vs Singapore",
-      "id": 261,
-      "logo": "https://image.tsports.com/images/mobile_thumbnail/1749548019-BAN-vs-SNG-ott-1280.jpg",
-      "link": "https://live-test.tsports.com/live-02/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1749568141300~hmac=cc42efd7159beaff0992bd81fee893d692849acd7843ff62e4ff51ca4ba31fa3"
+      "name": "T Sports Live 01",
+      "id": 597,
+      "logo": "https://image.tsports.com/images/mobile_thumbnail/1749547962-LIVE.jpg",
+      "link": "https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8"
     }
   ]
 }
