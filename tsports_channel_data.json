@@ -1,13 +1,13 @@
 {
   "channels_found": 1,
-  "last_update": "10-06-2025 03:10:16 PM",
+  "last_update": "10-06-2025 04:09:26 PM",
   "channels": [
     {
       "category": "LIVE",
       "name": "Live | Bangladesh vs Singapore",
       "id": 597,
       "logo": "https://image.tsports.com/images/mobile_thumbnail/1749380932-IMG_4342.jpeg",
-      "link": "https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8"
+      "link": ""
     }
   ]
 }
