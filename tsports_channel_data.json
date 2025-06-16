@@ -1,12 +1,12 @@
 {
   "channels_found": 1,
-  "last_update": "16-06-2025 05:08:00 PM",
+  "last_update": "16-06-2025 06:16:20 PM",
   "channels": [
     {
       "category": "LIVE",
-      "name": "T Sports Live 01",
+      "name": "Live | Bangladesh vs Sri Lanka",
       "id": 597,
-      "logo": "https://image.tsports.com/images/mobile_thumbnail/1749547962-LIVE.jpg",
+      "logo": "https://image.tsports.com/images/mobile_thumbnail/1750066241-1280.jpg",
       "link": "https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8"
     }
   ]
