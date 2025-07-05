@@ -1,13 +1,13 @@
 {
   "channels_found": 1,
-  "last_update": "05-07-2025 08:07:20 PM",
+  "last_update": "05-07-2025 09:07:17 PM",
   "channels": [
     {
       "category": "LIVE",
       "name": "Live | Bangladesh vs Sri Lanka",
       "id": 597,
       "logo": "https://image.tsports.com/images/mobile_thumbnail/1750066241-1280.jpg",
-      "link": "https://live-test.tsports.com/live-01/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1751724441300~hmac=c3c5077a0bb6c345cdba6aab8094cf91c7ba7197f06a5995fe270f4f0f6047b5"
+      "link": "https://live-test.tsports.com/live-01/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1751728037300~hmac=94e947d9b518da49bcb7283b643e80cd177dca72cdc0933a34c5f44c652c505b"
     }
   ]
 }
