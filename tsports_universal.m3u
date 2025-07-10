@@ -1,4 +1,4 @@
 #EXTM3U 
 
 #EXTINF:-1 group-title="LIVE" tvg-id="597" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1750066241-1280.jpg", Live | Bangladesh vs Sri Lanka
-https://live-test.tsports.com/live-01/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1752138729300~hmac=e4b71ad0ada1698ac696b610997835ca36a4c72b593c297dc8173e7d7abd3548
+https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
