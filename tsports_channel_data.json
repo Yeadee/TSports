@@ -1,13 +1,13 @@
 {
   "channels_found": 1,
-  "last_update": "22-07-2025 10:28:39 AM",
+  "last_update": "22-07-2025 11:15:35 AM",
   "channels": [
     {
       "category": "LIVE",
       "name": "LIVE | Bangladesh vs Pakistan",
       "id": 597,
       "logo": "https://image.tsports.com/images/mobile_thumbnail/1752918661-OTT-live-1920.jpg",
-      "link": "https://live-test.tsports.com/live-01/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1753158519300~hmac=badf76a1fe0f1cae30fc5e4211b59d7d56d5271614a4f1d7595556c6ff7cc9a6"
+      "link": "https://live-test.tsports.com/live-01/index.m3u8?hdnts=URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Expires=1753161337300~hmac=45bd884ee3347b8aad789785f59b09130bbdf4b942aa93ddcf7f082b6365dc7b"
     }
   ]
 }
