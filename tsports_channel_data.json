@@ -1,12 +1,12 @@
 {
   "channels_found": 1,
-  "last_update": "27-07-2025 09:07:45 PM",
+  "last_update": "27-07-2025 10:09:29 PM",
   "channels": [
     {
       "category": "LIVE",
-      "name": "LIVE | Bangladesh vs Pakistan",
+      "name": "T Sports Live 01",
       "id": 597,
-      "logo": "https://image.tsports.com/images/mobile_thumbnail/1752918661-OTT-live-1920.jpg",
+      "logo": "https://image.tsports.com/images/mobile_thumbnail/1753631234-LIVE.jpg",
       "link": "https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8"
     }
   ]
