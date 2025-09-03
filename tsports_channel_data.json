@@ -1,6 +1,6 @@
 {
-  "channels_found": 2,
-  "last_update": "03-09-2025 06:15:29 PM",
+  "channels_found": 1,
+  "last_update": "03-09-2025 07:18:41 PM",
   "channels": [
     {
       "category": "LIVE",
@@ -8,13 +8,6 @@
       "id": 597,
       "logo": "https://image.tsports.com/images/mobile_thumbnail/1753631234-LIVE.jpg",
       "link": "https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8"
-    },
-    {
-      "category": "LIVE",
-      "name": "T Sports Live 02",
-      "id": 261,
-      "logo": "https://image.tsports.com/images/mobile_thumbnail/1750064430-LIVE.jpg",
-      "link": ""
     }
   ]
 }
